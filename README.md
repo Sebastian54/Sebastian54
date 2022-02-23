@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Software Development in College.**
 
-- 📫 How to reach me: **sebastianarcher05@gmail.com**
+- 📫 How to reach me: **sebastianarcher05@gmail.com** or **Sebastian#6789** on Discord.
 
 - ⚡ Fun fact: **I'm a bit of a nerd**
 
