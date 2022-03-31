@@ -9,7 +9,7 @@
 ````
 
 ````bash
-  whois --username Sebastian54 --contact-info
+> whois --username Sebastian54 --contact-info
   instagram: sebastian.archer05
   twitter: sebastiandotcom
   mailto: sebastianarcher05@gmail.com
