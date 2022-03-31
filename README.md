@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebastian54" alt="sebastian54" /></a> </p>
 
-- 🔭 I’m currently working on **multiple projects on the side.**
+- 🔭 I’m currently working on **Fauna! An AR App to let you know what plant you're looking at!**
 
 - 🌱 I’m currently learning **Software Development in College.**
 
