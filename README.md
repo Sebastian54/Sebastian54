@@ -16,13 +16,4 @@
   github: Sebastian54
 ````
 
-````bash
-> whois --username Sebastian54 --ambitions
-  HTML
-  CSS
-  JAVA (Learning)
-  Kotlin (Learning)
-  VS.CODE (Learning)
-````
-
 ![](https://komarev.com/ghpvc/?username=sebastian54&color=6A8AFF)
