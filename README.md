@@ -11,7 +11,7 @@
 > whois --username Sebastian54 --contact-info
   instagram: sebastian.archer05
   mailto: sebastianarcher05@gmail.com
-  discord: Sebastian#6789
+  discord: seba542
   github: Sebastian54
 ````
 
