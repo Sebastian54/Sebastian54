@@ -3,8 +3,7 @@
 
 ````bash
 > whois --username Sebastian54
-  17 Year Old Student from Wales
-  Studying Level 3 Enhanced Technology and Engineering in College
+  18 Year Old Student from Wales
   Basic Hooman
 ````
 
