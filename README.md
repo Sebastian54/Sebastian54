@@ -3,7 +3,7 @@
 
 ````bash
 > whois --username Sebastian54
-  18 Year Old Student from Wales
+  19 Year Old from Wales
   Basic Hooman
 ````
 
