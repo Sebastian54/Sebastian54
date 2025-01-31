@@ -16,7 +16,7 @@
 ````
 
 ````bash
-> whois --suername Sebastian54 --current-hardware
+> whois --username Sebastian54 --current-hardware
   - M1 Macbook Air (2020)
       8GB RAM - 250GB Storage
   - NZXT Custom Built PC
@@ -31,5 +31,3 @@
         1x 500GB NVME
       GPU: RTX 3050 6GB
       CPU: Intel Core i5-13420H 2.10GHz
-
-![](https://komarev.com/ghpvc/?username=sebastian54&color=6A8AFF)
