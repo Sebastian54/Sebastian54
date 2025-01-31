@@ -16,7 +16,7 @@
 ````
 
 ````bash
->whois --suername Sebastian54 --current-hardware
+> whois --suername Sebastian54 --current-hardware
   - M1 Macbook Air (2020)
       8GB RAM - 250GB Storage
   - NZXT Custom Built PC
