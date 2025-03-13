@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sebastian</h1>
-<h3 align="center">..a fellow tech nerd from the UK.</h3>
 
 ````bash
 > whois --username Sebastian54
