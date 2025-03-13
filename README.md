@@ -34,6 +34,7 @@ GPU: RTX 3050 6GB
 CPU: Intel Core i5-13420H 2.10GHz
 
 - HP ProDesk 405 G4 Mini (Proxmox)
-RAM: 16GB DDR4
-Storage: 1x 250GB NVMe
+RAM: 32GB DDR4
+Storage: 1x 250GB NVMe, 1x 10TB HDD
+GPU: GT 730 2GB (Used for external display for VM)
 CPU: AMD Ryzen 5 PRO 2400G
