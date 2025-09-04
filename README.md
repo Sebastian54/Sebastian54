@@ -2,7 +2,7 @@
 
 ````bash
 > whois --username Sebastian54
-  19 Year Old from Wales
+  20 Year Old from Wales
   Basic Hooman
 ````
 
@@ -27,7 +27,7 @@ GPU: MSI RTX 3060 12GB
 CPU: Intel Core i7-10700K (Overclocked to 5.10GHz)
 
 - MSI Cyborg 15 A13U Gaming Laptop (Windows 11)
-RAM: 16GB DDR5 (5200 MT/s)
+RAM: 32GB DDR5 (5200 MT/s)
 Storage: 1x 500GB NVMe
 GPU: RTX 3050 6GB
 CPU: Intel Core i5-13420H 2.10GHz
