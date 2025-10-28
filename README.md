@@ -4,6 +4,7 @@
 > whois --username Sebastian54
   20 Year Old from Wales
   Basic Hooman
+  Year 1 Computer Science Student in Bangor University
 ````
 
 ````bash
